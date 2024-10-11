@@ -7,7 +7,6 @@
 
 <div>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <br>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=121212" alt="JavaScript">
   <img src="https://img.shields.io/badge/-Java-FF5733.svg?style=for-the-badge&logo=coffeescript&logoColor=ffffff" alt="Java">
